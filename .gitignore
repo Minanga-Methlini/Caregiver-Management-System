@@ -1,0 +1,21 @@
+# Compiled Java
+*.class
+
+# NetBeans build output
+build/
+dist/
+
+# NetBeans private files
+nbproject/private/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
